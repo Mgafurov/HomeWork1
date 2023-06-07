@@ -1,0 +1,15 @@
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\bin\Debug\net6.0\TaskNEGAFINOBACHHI.exe
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\bin\Debug\net6.0\TaskNEGAFINOBACHHI.deps.json
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\bin\Debug\net6.0\TaskNEGAFINOBACHHI.runtimeconfig.json
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\bin\Debug\net6.0\TaskNEGAFINOBACHHI.dll
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\bin\Debug\net6.0\TaskNEGAFINOBACHHI.pdb
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.csproj.AssemblyReference.cache
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.AssemblyInfoInputs.cache
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.AssemblyInfo.cs
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.csproj.CoreCompileInputs.cache
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.dll
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\refint\TaskNEGAFINOBACHHI.dll
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.pdb
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\TaskNEGAFINOBACHHI.genruntimeconfig.cache
+C:\Users\малик\Desktop\HomeWork1\TaskNEGAFINOBACHHI\obj\Debug\net6.0\ref\TaskNEGAFINOBACHHI.dll
