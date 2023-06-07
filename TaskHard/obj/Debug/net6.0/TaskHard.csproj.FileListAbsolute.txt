@@ -1,0 +1,15 @@
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.csproj.AssemblyReference.cache
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.AssemblyInfoInputs.cache
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.AssemblyInfo.cs
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.csproj.CoreCompileInputs.cache
+C:\Users\малик\Desktop\HomeWork1\TaskHard\bin\Debug\net6.0\TaskHard.exe
+C:\Users\малик\Desktop\HomeWork1\TaskHard\bin\Debug\net6.0\TaskHard.deps.json
+C:\Users\малик\Desktop\HomeWork1\TaskHard\bin\Debug\net6.0\TaskHard.runtimeconfig.json
+C:\Users\малик\Desktop\HomeWork1\TaskHard\bin\Debug\net6.0\TaskHard.dll
+C:\Users\малик\Desktop\HomeWork1\TaskHard\bin\Debug\net6.0\TaskHard.pdb
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.dll
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\refint\TaskHard.dll
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.pdb
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\TaskHard.genruntimeconfig.cache
+C:\Users\малик\Desktop\HomeWork1\TaskHard\obj\Debug\net6.0\ref\TaskHard.dll
